@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I'm OHEE</h1>
 <h3 align="center">A passionate laravel developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahintoshmi&label=Profile%20views&color=0e75b6&style=flat" alt="rahintoshmi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahintoshmi&label=Profile%20views&color=0e75b6&style=flat" alt="rahintoshmi"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi" alt="rahintoshmi" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+
 - 🔭 I’m currently working on [EcoBazar](https://github.com/rahintoshmi/EcoBazar-Final-Frontend-Project.git)
 
 - 🌱 I’m currently learning **the elegance of Laravel, from routing to real-world RESTful APIs**
