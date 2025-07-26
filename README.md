@@ -24,8 +24,10 @@
 - 📫 How to reach me **rahintoshmiohee@gmail.com,www.linkedin.com/in/ rahin-toshmi-ohee-457050335**
 
 - ⚡ Fun fact **I think my best code flows between sips of tea and beats of music 🎶👩‍💻🍵**
+  
 - <p align="center">
-  🚀 I build customized websites tailored to your needs.  
+  🚀 I build customized websites tailored to your needs. 
+  
   📬 Feel free to <a href="rahintoshmiohee@gmail.com">contact me</a> for collaborations or projects!
 </p>
 
