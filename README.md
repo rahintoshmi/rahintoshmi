@@ -1,7 +1,14 @@
 ![image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm OHEE</h1>
-<h3 align="center">A passionate laravel developer from Bangladesh</h3>
+<h3 align="center">
+  A passionate
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F25057&center=true&vCenter=true&width=435&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahintoshmi&label=Profile%20views&color=0e75b6&style=flat" alt="rahintoshmi"/> </p>
 
@@ -12,7 +19,7 @@
 
 - 🌱 I’m currently learning **the elegance of Laravel and MERN Stack , from routing to real-world RESTful APIs**
 
-- 💬 Ask me about **Laravel ,PHP**
+- 💬 Ask me about **Laravel , PHP , MERN Stack **
 
 - 📫 How to reach me **rahintoshmiohee@gmail.com,www.linkedin.com/in/ rahin-toshmi-ohee-457050335**
 
