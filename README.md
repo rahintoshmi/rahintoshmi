@@ -39,8 +39,9 @@
 <h3 align="left">Download My CV 📄</h3>
 
 <p align="left">
-  <a href="https://github.com/rahintoshmi/MY-CV/raw/main/Ohee%20CV.pdf" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/24/0000ff/download-resume.png" alt="Download CV" /> Download My CV
+  <a href="https://github.com/rahintoshmi/MY-CV/raw/main/Ohee%20CV.pdf" target="_blank" rel="noreferrer" style="text-decoration:none; font-weight:bold; color:#003366;">
+    <img src="https://img.icons8.com/ios-filled/24/0000ff/download-resume.png" alt="Download CV" style="vertical-align:middle; margin-right:6px;" />
+    Download My CV
   </a>
 </p>
 
