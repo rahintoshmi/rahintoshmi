@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F25057&center=true&vCenter=true&width=435&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=003366&center=true&vCenter=true&width=435&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder" alt="Typing SVG" />
 </p>
 
 
