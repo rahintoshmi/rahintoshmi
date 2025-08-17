@@ -40,7 +40,7 @@
 <h3 align="left">Download My CV 📄</h3>
 
 <p align="left">
-  <a href="https://github.com/rahintoshmi/MY-CV/releases/latest/download/Ohee%20CVaugustupdate.pdf" target="_blank" rel="noreferrer" style="text-decoration:none; font-weight:bold; color:#003366;">
+  <a href="https://github.com/rahintoshmi/MY-CV/raw/main/Ohee%20CVaugustupdate.pdf" target="_blank" rel="noreferrer" style="text-decoration:none; font-weight:bold; color:#003366;">
     📥 My CV
   </a>
 </p>
