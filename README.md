@@ -4,16 +4,21 @@
 <h3 align="center">
   A passionate
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=003366&center=true&vCenter=true&width=435&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder" alt="Typing SVG" />
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahintoshmi&label=Profile%20views&color=0e75b6&style=flat" alt="rahintoshmi"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi" alt="rahintoshmi" /></a> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rahintoshmi&label=Profile%20views&color=0e75b6&style=flat" alt="rahintoshmi"/>
+</p>
+
+<p align="center"><a href="https://github.com/screw-hand/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rahintoshmi&theme=onedark&margin-w=8&margin-h=8" alt="GitHub Trophies" /></a></p>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+
 
 
 - 🔭 I’m currently working on [EcoBazar](https://github.com/rahintoshmi/EcoBazar-Final-Frontend-Project.git)
@@ -33,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahin toshmi ohee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahin toshmi ohee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahin-toshmi-ohee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahin toshmi ohee" height="30" width="40" /></a>
 <a href="https://kaggle.com/rahin toshmi ohee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahin toshmi ohee" height="30" width="40" /></a>
 </p>
 
