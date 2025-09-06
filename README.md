@@ -113,8 +113,8 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://pixoeditor.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://pixoeditor.com/favicon.ico" alt="pixo" width="40" height="40"/> 
+  <a href="https://pixso.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=512&id=fh64oQ1gCoVx&format=png" alt="pixso" width="40" height="40"/> 
   </a> 
 
   <!-- 🔹 Data Science / ML -->
