@@ -1,10 +1,10 @@
 ![Header GIF](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm OHEE</h1>
-<h3 align="center">🚀 Laravel & MERN Stack Developer | Custom Website Builder</h3>
+<h3 align="center">🚀 Web Deveopler Intern | Laravel & MERN Stack Developer | Custom Website Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=003366&center=true&vCenter=true&width=550&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder;Problem+Solver;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=003366&center=true&vCenter=true&width=550&lines=Web+Developer+Intern;Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder;Problem+Solver;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="left">
