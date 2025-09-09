@@ -4,7 +4,11 @@
 <h3 align="center">🚀 Laravel & MERN Stack Developer | Custom Website Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=003366&center=true&vCenter=true&width=550&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder;Problem+Solver;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=003366&center=true&vCenter=true&width=550&lines=Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder;Problem+Solver;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rahintoshmi&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -39,6 +43,22 @@
 
 ---
 
+### 🚀 Achievements & Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Language-PHP-blue?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/Top%20Language-Javascript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Portfolio-Active-brightgreen?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+### 💬 Inspirational Quotes
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&width=550&lines=Code+is+like+art;Keep+Learning+Every+Day;Build+Impactful+Projects" alt="Typing Quotes"/>
+</p>
+
+---
+
 ### 🛠️ Languages & Tools  
 
 #### 🎨 Frontend
@@ -53,10 +73,10 @@
 
 #### ⚙️ Backend
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
 </p>
 
 #### 🗄️ Databases
@@ -67,12 +87,12 @@
 
 #### 🛠️ Tools
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=fh64oQ1gCoVx&format=png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pixso/pixso-original.svg" width="40" alt="Pixso"/>
 </p>
 
 #### 📊 Data Science & ML
@@ -108,11 +128,4 @@
 ### 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahintoshmi&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🐍 GitHub Activity Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahintoshmi/rahintoshmi/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
