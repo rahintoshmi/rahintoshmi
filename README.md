@@ -2,9 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm OHEE</h1>
 <h3 align="center">🚀 Web Deveopler Intern | Laravel & MERN Stack Developer | Custom Website Builder</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,mysql" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=003366&center=true&vCenter=true&width=550&lines=Web+Developer+Intern;Laravel+Developer;MERN+Stack+Developer;Custom+Website+Builder;Problem+Solver;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tea%20Powered-🍵-orange" />
+  <img src="https://img.shields.io/badge/Music%20Lover-🎧-blue" />
+  <img src="https://img.shields.io/badge/Night%20Coder-🌙-purple" />
 </p>
 
 <p align="left">
@@ -40,6 +48,7 @@
     📥 <b>Download My Resume</b>
   </a>
 </p>
+
 
 ---
 
@@ -112,8 +121,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align = 'center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi&theme=aura&margin-w=10&no-frame=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahintoshmi&show_icons=true&theme=tokyonight" height="180"/>
