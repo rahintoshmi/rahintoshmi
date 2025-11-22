@@ -112,8 +112,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi&theme=onedark&margin-w=10&margin-h=10"/>
+<p align = 'center'>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahintoshmi&show_icons=true&theme=tokyonight" height="180"/>
