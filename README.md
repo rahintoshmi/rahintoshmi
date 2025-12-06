@@ -125,8 +125,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rahintoshmi&theme=aura&margin-w=10&no-frame=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahintoshmi&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahintoshmi&layout=compact&theme=tokyonight" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahintoshmi&layout=compact&theme=dark&count_private=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahintoshmi&theme=tokyonight"/>
