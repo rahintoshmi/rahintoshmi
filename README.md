@@ -44,7 +44,7 @@
 
 ### 📄 Download My CV
 <p>
-  <a href="https://github.com/rahintoshmi/MY-CV/raw/main/Ohee%20CVSeptember.pdf" target="_blank">
+  <a href="https://github.com/rahintoshmi/MY-CV/raw/main/Ohee%20CVJanuary.pdf" target="_blank">
     📥 <b>Download My Resume</b>
   </a>
 </p>
